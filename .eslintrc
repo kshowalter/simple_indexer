@@ -31,7 +31,8 @@
     "$": true,
     "_": true,
     "moment": true,
-    "g": true
+    "g": true,
+    "Set": true
   }
 
 }
